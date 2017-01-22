@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="movies_sort_entries_values">
+        <item>popularity.desc</item>
+        <item>vote_average.desc</item>
+    </array>
+    <array name="movies_sort_entries">
+        <item>Most popular</item>
+        <item>Highest Rated</item>
+    </array>
+</resources>

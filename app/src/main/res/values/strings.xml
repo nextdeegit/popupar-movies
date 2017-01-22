@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PopularMoviesApp</string>
+    <string name="title_activity_discovery_screen">DiscoveryScreen</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="title_activity_setting">Setting</string>
+    <string name="movie_sort_key">sort_order_key</string>
+    <string name="movie_sort_order_default_value">popularity.desc</string>
+    <string name="movie_setting_title"> Sort Popular Movies</string>
+    <string name="movie_title_setting"> Setting</string>
+    <string name="title_activity_movie_detail">MovieDetail</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="release_date">Release Date</string>
+    <string name="movie_context_description">movie Description</string>
+    <string name="movie_detail_title"> Title </string>
+    <string name="movie_detail_release"> Release </string>
+    <string name="movie_detail_description"> Description</string>
+    <string name="movie_detail_no_description"> No Movie Description</string>
+    <string name="movie_detail_rating_value"> 0.0 </string>
+    <string name="intent_extra">movie</string>
+
+</resources>
