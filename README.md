@@ -8,3 +8,7 @@ With the app, you can:
 * Discover the most popular, the most rated or the highest rated movies via the settings
 * Watch trailers
 * Read reviews
+
+# Contribution
+
+I welcome contributors.
